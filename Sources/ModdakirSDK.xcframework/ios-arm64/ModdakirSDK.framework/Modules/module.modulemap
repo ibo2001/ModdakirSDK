@@ -1,0 +1,6 @@
+framework module ModdakirSDK {
+  umbrella header "ModdakirSDK.h"
+  export *
+
+  module * { export * }
+}

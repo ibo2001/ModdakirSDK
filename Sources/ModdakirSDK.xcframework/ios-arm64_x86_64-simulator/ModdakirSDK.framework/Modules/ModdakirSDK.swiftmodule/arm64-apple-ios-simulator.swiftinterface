@@ -1,0 +1,118 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.2.1 effective-5.10 (swiftlang-6.2.1.4.8 clang-1700.4.4.1)
+// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name ModdakirSDK
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.1
+import AVFAudio
+import AVFoundation
+import CallKit
+import Combine
+import DeveloperToolsSupport
+import Foundation
+@_exported import ModdakirSDK
+import Network
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public struct TestCredentials {
+  public init(moddakirId: Swift.String, moddakirKey: Swift.String)
+}
+extension ModdakirSDK.ModdakirService {
+  public enum InitiateCallError {
+    case noInternet
+    case notValidEmail
+    case emptyName
+    case unauthorized
+    public static func == (a: ModdakirSDK.ModdakirService.InitiateCallError, b: ModdakirSDK.ModdakirService.InitiateCallError) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+}
+public protocol ModdakirServiceDelegate : AnyObject {
+  func failedToInitiateCall(withError error: Swift.String, andType type: ModdakirSDK.ModdakirService.InitiateCallError)
+}
+@_hasMissingDesignatedInitializers final public class ModdakirService {
+  public static var delegate: (any ModdakirSDK.ModdakirServiceDelegate)?
+  @objc deinit
+}
+public struct ModdakirUserInfo {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init(fullName: Swift.String, gender: ModdakirSDK.ModdakirGender, email: Swift.String, phone: Swift.String? = nil)
+  #endif
+}
+public enum ModdakirGender : Swift.String {
+  case male
+  case female
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init?(rawValue: Swift.String)
+  #endif
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public enum Environments {
+  case production
+  case development
+  public static func == (a: ModdakirSDK.Environments, b: ModdakirSDK.Environments) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public struct Environment {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func get(_ key: ModdakirSDK.Environment.EnvKey) -> Swift.String?
+  #endif
+}
+extension ModdakirSDK.Environment {
+  public enum EnvKey {
+    case developmentAPI
+    case productionAPI
+    public static func == (a: ModdakirSDK.Environment.EnvKey, b: ModdakirSDK.Environment.EnvKey) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+}
+@_hasMissingDesignatedInitializers public class ModdakirThemeManager {
+  public enum ThemeMode : Swift.String {
+    case light
+    case dark
+    #if compiler(>=5.3) && $NonescapableTypes
+    public init?(rawValue: Swift.String)
+    #endif
+    public typealias RawValue = Swift.String
+    public var rawValue: Swift.String {
+      get
+    }
+  }
+  public static let shared: ModdakirSDK.ModdakirThemeManager
+  public var currentThemeMode: ModdakirSDK.ModdakirThemeManager.ThemeMode {
+    get
+    set
+  }
+  @objc deinit
+}
+extension ModdakirSDK.ModdakirService {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public static func initiateCall(moddakirId: Swift.String, moddakirKey: Swift.String, userInfo: ModdakirSDK.ModdakirUserInfo, rootView: UIKit.UIViewController, primaryColor: UIKit.UIColor? = nil, themeMode: ModdakirSDK.ModdakirThemeManager.ThemeMode)
+  #endif
+}
+extension ModdakirSDK.ModdakirService.InitiateCallError : Swift.Equatable {}
+extension ModdakirSDK.ModdakirService.InitiateCallError : Swift.Hashable {}
+extension ModdakirSDK.ModdakirGender : Swift.Equatable {}
+extension ModdakirSDK.ModdakirGender : Swift.Hashable {}
+extension ModdakirSDK.ModdakirGender : Swift.RawRepresentable {}
+extension ModdakirSDK.Environments : Swift.Equatable {}
+extension ModdakirSDK.Environments : Swift.Hashable {}
+extension ModdakirSDK.Environment.EnvKey : Swift.Equatable {}
+extension ModdakirSDK.Environment.EnvKey : Swift.Hashable {}
+extension ModdakirSDK.ModdakirThemeManager.ThemeMode : Swift.Equatable {}
+extension ModdakirSDK.ModdakirThemeManager.ThemeMode : Swift.Hashable {}
+extension ModdakirSDK.ModdakirThemeManager.ThemeMode : Swift.RawRepresentable {}

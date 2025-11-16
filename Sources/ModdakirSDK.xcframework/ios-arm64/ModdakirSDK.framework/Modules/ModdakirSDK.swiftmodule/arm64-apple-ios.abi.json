@@ -1,0 +1,5273 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "ModdakirSDK",
+    "printedName": "ModdakirSDK",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "NetworkManager",
+        "printedName": "NetworkManager",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "NetworkManager",
+        "printedName": "NetworkManager",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TestCredentials",
+        "printedName": "TestCredentials",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(moddakirId:moddakirKey:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TestCredentials",
+                "printedName": "ModdakirSDK.TestCredentials",
+                "usr": "s:11ModdakirSDK15TestCredentialsV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:11ModdakirSDK15TestCredentialsV10moddakirId0E3KeyACSS_SStcfc",
+            "mangledName": "$s11ModdakirSDK15TestCredentialsV10moddakirId0E3KeyACSS_SStcfc",
+            "moduleName": "ModdakirSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:11ModdakirSDK15TestCredentialsV",
+        "mangledName": "$s11ModdakirSDK15TestCredentialsV",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CallKit",
+        "printedName": "CallKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CallKit",
+        "printedName": "CallKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "NetworkManager",
+        "printedName": "NetworkManager",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "NetworkManager",
+        "printedName": "NetworkManager",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "NetworkManager",
+        "printedName": "NetworkManager",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AgoraRtmKit",
+        "printedName": "AgoraRtmKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "NetworkManager",
+        "printedName": "NetworkManager",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "NetworkManager",
+        "printedName": "NetworkManager",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "NetworkManager",
+        "printedName": "NetworkManager",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftyGif",
+        "printedName": "SwiftyGif",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftyGif",
+        "printedName": "SwiftyGif",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "NetworkManager",
+        "printedName": "NetworkManager",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AgoraRtmKit",
+        "printedName": "AgoraRtmKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AgoraRtcKit",
+        "printedName": "AgoraRtcKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "NetworkManager",
+        "printedName": "NetworkManager",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "NetworkManager",
+        "printedName": "NetworkManager",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ModdakirServiceDelegate",
+        "printedName": "ModdakirServiceDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "failedToInitiateCall",
+            "printedName": "failedToInitiateCall(withError:andType:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "InitiateCallError",
+                "printedName": "ModdakirSDK.ModdakirService.InitiateCallError",
+                "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11ModdakirSDK0A15ServiceDelegateP20failedToInitiateCall9withError7andTypeySS_AA0aC0C0ghJ0OtF",
+            "mangledName": "$s11ModdakirSDK0A15ServiceDelegateP20failedToInitiateCall9withError7andTypeySS_AA0aC0C0ghJ0OtF",
+            "moduleName": "ModdakirSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : ModdakirSDK.ModdakirServiceDelegate>",
+            "sugared_genericSig": "<Self where Self : ModdakirSDK.ModdakirServiceDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:11ModdakirSDK0A15ServiceDelegateP",
+        "mangledName": "$s11ModdakirSDK0A15ServiceDelegateP",
+        "moduleName": "ModdakirSDK",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ModdakirService",
+        "printedName": "ModdakirService",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "delegate",
+            "printedName": "delegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any ModdakirSDK.ModdakirServiceDelegate)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ModdakirServiceDelegate",
+                    "printedName": "any ModdakirSDK.ModdakirServiceDelegate",
+                    "usr": "s:11ModdakirSDK0A15ServiceDelegateP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11ModdakirSDK0A7ServiceC8delegateAA0aC8Delegate_pSgvpZ",
+            "mangledName": "$s11ModdakirSDK0A7ServiceC8delegateAA0aC8Delegate_pSgvpZ",
+            "moduleName": "ModdakirSDK",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any ModdakirSDK.ModdakirServiceDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ModdakirServiceDelegate",
+                        "printedName": "any ModdakirSDK.ModdakirServiceDelegate",
+                        "usr": "s:11ModdakirSDK0A15ServiceDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11ModdakirSDK0A7ServiceC8delegateAA0aC8Delegate_pSgvgZ",
+                "mangledName": "$s11ModdakirSDK0A7ServiceC8delegateAA0aC8Delegate_pSgvgZ",
+                "moduleName": "ModdakirSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any ModdakirSDK.ModdakirServiceDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ModdakirServiceDelegate",
+                        "printedName": "any ModdakirSDK.ModdakirServiceDelegate",
+                        "usr": "s:11ModdakirSDK0A15ServiceDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11ModdakirSDK0A7ServiceC8delegateAA0aC8Delegate_pSgvsZ",
+                "mangledName": "$s11ModdakirSDK0A7ServiceC8delegateAA0aC8Delegate_pSgvsZ",
+                "moduleName": "ModdakirSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11ModdakirSDK0A7ServiceC8delegateAA0aC8Delegate_pSgvMZ",
+                "mangledName": "$s11ModdakirSDK0A7ServiceC8delegateAA0aC8Delegate_pSgvMZ",
+                "moduleName": "ModdakirSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "InitiateCallError",
+            "printedName": "InitiateCallError",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "noInternet",
+                "printedName": "noInternet",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(ModdakirSDK.ModdakirService.InitiateCallError.Type) -> ModdakirSDK.ModdakirService.InitiateCallError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "InitiateCallError",
+                        "printedName": "ModdakirSDK.ModdakirService.InitiateCallError",
+                        "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "ModdakirSDK.ModdakirService.InitiateCallError.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "InitiateCallError",
+                            "printedName": "ModdakirSDK.ModdakirService.InitiateCallError",
+                            "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO10noInternetyA2EmF",
+                "mangledName": "$s11ModdakirSDK0A7ServiceC17InitiateCallErrorO10noInternetyA2EmF",
+                "moduleName": "ModdakirSDK"
+              },
+              {
+                "kind": "Var",
+                "name": "notValidEmail",
+                "printedName": "notValidEmail",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(ModdakirSDK.ModdakirService.InitiateCallError.Type) -> ModdakirSDK.ModdakirService.InitiateCallError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "InitiateCallError",
+                        "printedName": "ModdakirSDK.ModdakirService.InitiateCallError",
+                        "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "ModdakirSDK.ModdakirService.InitiateCallError.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "InitiateCallError",
+                            "printedName": "ModdakirSDK.ModdakirService.InitiateCallError",
+                            "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO13notValidEmailyA2EmF",
+                "mangledName": "$s11ModdakirSDK0A7ServiceC17InitiateCallErrorO13notValidEmailyA2EmF",
+                "moduleName": "ModdakirSDK"
+              },
+              {
+                "kind": "Var",
+                "name": "emptyName",
+                "printedName": "emptyName",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(ModdakirSDK.ModdakirService.InitiateCallError.Type) -> ModdakirSDK.ModdakirService.InitiateCallError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "InitiateCallError",
+                        "printedName": "ModdakirSDK.ModdakirService.InitiateCallError",
+                        "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "ModdakirSDK.ModdakirService.InitiateCallError.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "InitiateCallError",
+                            "printedName": "ModdakirSDK.ModdakirService.InitiateCallError",
+                            "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO9emptyNameyA2EmF",
+                "mangledName": "$s11ModdakirSDK0A7ServiceC17InitiateCallErrorO9emptyNameyA2EmF",
+                "moduleName": "ModdakirSDK"
+              },
+              {
+                "kind": "Var",
+                "name": "unauthorized",
+                "printedName": "unauthorized",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(ModdakirSDK.ModdakirService.InitiateCallError.Type) -> ModdakirSDK.ModdakirService.InitiateCallError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "InitiateCallError",
+                        "printedName": "ModdakirSDK.ModdakirService.InitiateCallError",
+                        "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "ModdakirSDK.ModdakirService.InitiateCallError.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "InitiateCallError",
+                            "printedName": "ModdakirSDK.ModdakirService.InitiateCallError",
+                            "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO12unauthorizedyA2EmF",
+                "mangledName": "$s11ModdakirSDK0A7ServiceC17InitiateCallErrorO12unauthorizedyA2EmF",
+                "moduleName": "ModdakirSDK"
+              },
+              {
+                "kind": "Function",
+                "name": "==",
+                "printedName": "==(_:_:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "InitiateCallError",
+                    "printedName": "ModdakirSDK.ModdakirService.InitiateCallError",
+                    "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "InitiateCallError",
+                    "printedName": "ModdakirSDK.ModdakirService.InitiateCallError",
+                    "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO2eeoiySbAE_AEtFZ",
+                "mangledName": "$s11ModdakirSDK0A7ServiceC17InitiateCallErrorO2eeoiySbAE_AEtFZ",
+                "moduleName": "ModdakirSDK",
+                "static": true,
+                "implicit": true,
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Var",
+                "name": "hashValue",
+                "printedName": "hashValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO9hashValueSivp",
+                "mangledName": "$s11ModdakirSDK0A7ServiceC17InitiateCallErrorO9hashValueSivp",
+                "moduleName": "ModdakirSDK",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO9hashValueSivg",
+                    "mangledName": "$s11ModdakirSDK0A7ServiceC17InitiateCallErrorO9hashValueSivg",
+                    "moduleName": "ModdakirSDK",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Function",
+                "name": "hash",
+                "printedName": "hash(into:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Hasher",
+                    "printedName": "Swift.Hasher",
+                    "paramValueOwnership": "InOut",
+                    "usr": "s:s6HasherV"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO4hash4intoys6HasherVz_tF",
+                "mangledName": "$s11ModdakirSDK0A7ServiceC17InitiateCallErrorO4hash4intoys6HasherVz_tF",
+                "moduleName": "ModdakirSDK",
+                "implicit": true,
+                "funcSelfKind": "NonMutating"
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:11ModdakirSDK0A7ServiceC17InitiateCallErrorO",
+            "mangledName": "$s11ModdakirSDK0A7ServiceC17InitiateCallErrorO",
+            "moduleName": "ModdakirSDK",
+            "isFromExtension": true,
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "initiateCall",
+            "printedName": "initiateCall(moddakirId:moddakirKey:userInfo:rootView:primaryColor:themeMode:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ModdakirUserInfo",
+                "printedName": "ModdakirSDK.ModdakirUserInfo",
+                "usr": "s:11ModdakirSDK0A8UserInfoV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ThemeMode",
+                "printedName": "ModdakirSDK.ModdakirThemeManager.ThemeMode",
+                "usr": "s:11ModdakirSDK0A12ThemeManagerC0C4ModeO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11ModdakirSDK0A7ServiceC12initiateCall10moddakirId0F3Key8userInfo8rootView12primaryColor9themeModeySS_SSAA0a4UserJ0VSo16UIViewControllerCSo7UIColorCSgAA0A12ThemeManagerC0uP0OtFZ",
+            "mangledName": "$s11ModdakirSDK0A7ServiceC12initiateCall10moddakirId0F3Key8userInfo8rootView12primaryColor9themeModeySS_SSAA0a4UserJ0VSo16UIViewControllerCSo7UIColorCSgAA0A12ThemeManagerC0uP0OtFZ",
+            "moduleName": "ModdakirSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:11ModdakirSDK0A7ServiceC",
+        "mangledName": "$s11ModdakirSDK0A7ServiceC",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "Final",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ModdakirUserInfo",
+        "printedName": "ModdakirUserInfo",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(fullName:gender:email:phone:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ModdakirUserInfo",
+                "printedName": "ModdakirSDK.ModdakirUserInfo",
+                "usr": "s:11ModdakirSDK0A8UserInfoV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ModdakirGender",
+                "printedName": "ModdakirSDK.ModdakirGender",
+                "usr": "s:11ModdakirSDK0A6GenderO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:11ModdakirSDK0A8UserInfoV8fullName6gender5email5phoneACSS_AA0A6GenderOS2SSgtcfc",
+            "mangledName": "$s11ModdakirSDK0A8UserInfoV8fullName6gender5email5phoneACSS_AA0A6GenderOS2SSgtcfc",
+            "moduleName": "ModdakirSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:11ModdakirSDK0A8UserInfoV",
+        "mangledName": "$s11ModdakirSDK0A8UserInfoV",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ModdakirGender",
+        "printedName": "ModdakirGender",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "male",
+            "printedName": "male",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(ModdakirSDK.ModdakirGender.Type) -> ModdakirSDK.ModdakirGender",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ModdakirGender",
+                    "printedName": "ModdakirSDK.ModdakirGender",
+                    "usr": "s:11ModdakirSDK0A6GenderO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "ModdakirSDK.ModdakirGender.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ModdakirGender",
+                        "printedName": "ModdakirSDK.ModdakirGender",
+                        "usr": "s:11ModdakirSDK0A6GenderO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11ModdakirSDK0A6GenderO4maleyA2CmF",
+            "mangledName": "$s11ModdakirSDK0A6GenderO4maleyA2CmF",
+            "moduleName": "ModdakirSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "female",
+            "printedName": "female",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(ModdakirSDK.ModdakirGender.Type) -> ModdakirSDK.ModdakirGender",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ModdakirGender",
+                    "printedName": "ModdakirSDK.ModdakirGender",
+                    "usr": "s:11ModdakirSDK0A6GenderO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "ModdakirSDK.ModdakirGender.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ModdakirGender",
+                        "printedName": "ModdakirSDK.ModdakirGender",
+                        "usr": "s:11ModdakirSDK0A6GenderO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11ModdakirSDK0A6GenderO6femaleyA2CmF",
+            "mangledName": "$s11ModdakirSDK0A6GenderO6femaleyA2CmF",
+            "moduleName": "ModdakirSDK"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "ModdakirSDK.ModdakirGender?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ModdakirGender",
+                    "printedName": "ModdakirSDK.ModdakirGender",
+                    "usr": "s:11ModdakirSDK0A6GenderO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:11ModdakirSDK0A6GenderO8rawValueACSgSS_tcfc",
+            "mangledName": "$s11ModdakirSDK0A6GenderO8rawValueACSgSS_tcfc",
+            "moduleName": "ModdakirSDK",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11ModdakirSDK0A6GenderO8rawValueSSvp",
+            "mangledName": "$s11ModdakirSDK0A6GenderO8rawValueSSvp",
+            "moduleName": "ModdakirSDK",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11ModdakirSDK0A6GenderO8rawValueSSvg",
+                "mangledName": "$s11ModdakirSDK0A6GenderO8rawValueSSvg",
+                "moduleName": "ModdakirSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:11ModdakirSDK0A6GenderO",
+        "mangledName": "$s11ModdakirSDK0A6GenderO",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Environments",
+        "printedName": "Environments",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "production",
+            "printedName": "production",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(ModdakirSDK.Environments.Type) -> ModdakirSDK.Environments",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Environments",
+                    "printedName": "ModdakirSDK.Environments",
+                    "usr": "s:11ModdakirSDK12EnvironmentsO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "ModdakirSDK.Environments.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Environments",
+                        "printedName": "ModdakirSDK.Environments",
+                        "usr": "s:11ModdakirSDK12EnvironmentsO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11ModdakirSDK12EnvironmentsO10productionyA2CmF",
+            "mangledName": "$s11ModdakirSDK12EnvironmentsO10productionyA2CmF",
+            "moduleName": "ModdakirSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "development",
+            "printedName": "development",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(ModdakirSDK.Environments.Type) -> ModdakirSDK.Environments",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Environments",
+                    "printedName": "ModdakirSDK.Environments",
+                    "usr": "s:11ModdakirSDK12EnvironmentsO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "ModdakirSDK.Environments.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Environments",
+                        "printedName": "ModdakirSDK.Environments",
+                        "usr": "s:11ModdakirSDK12EnvironmentsO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11ModdakirSDK12EnvironmentsO11developmentyA2CmF",
+            "mangledName": "$s11ModdakirSDK12EnvironmentsO11developmentyA2CmF",
+            "moduleName": "ModdakirSDK"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Environments",
+                "printedName": "ModdakirSDK.Environments",
+                "usr": "s:11ModdakirSDK12EnvironmentsO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Environments",
+                "printedName": "ModdakirSDK.Environments",
+                "usr": "s:11ModdakirSDK12EnvironmentsO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11ModdakirSDK12EnvironmentsO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s11ModdakirSDK12EnvironmentsO2eeoiySbAC_ACtFZ",
+            "moduleName": "ModdakirSDK",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11ModdakirSDK12EnvironmentsO9hashValueSivp",
+            "mangledName": "$s11ModdakirSDK12EnvironmentsO9hashValueSivp",
+            "moduleName": "ModdakirSDK",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11ModdakirSDK12EnvironmentsO9hashValueSivg",
+                "mangledName": "$s11ModdakirSDK12EnvironmentsO9hashValueSivg",
+                "moduleName": "ModdakirSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11ModdakirSDK12EnvironmentsO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s11ModdakirSDK12EnvironmentsO4hash4intoys6HasherVz_tF",
+            "moduleName": "ModdakirSDK",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:11ModdakirSDK12EnvironmentsO",
+        "mangledName": "$s11ModdakirSDK12EnvironmentsO",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AgoraRtcKit",
+        "printedName": "AgoraRtcKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFAudio",
+        "printedName": "AVFAudio",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AgoraRtcKit",
+        "printedName": "AgoraRtcKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Environment",
+        "printedName": "Environment",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "get",
+            "printedName": "get(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "EnvKey",
+                "printedName": "ModdakirSDK.Environment.EnvKey",
+                "usr": "s:11ModdakirSDK11EnvironmentV6EnvKeyO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11ModdakirSDK11EnvironmentV3getySSSgAC6EnvKeyOF",
+            "mangledName": "$s11ModdakirSDK11EnvironmentV3getySSSgAC6EnvKeyOF",
+            "moduleName": "ModdakirSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "EnvKey",
+            "printedName": "EnvKey",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "developmentAPI",
+                "printedName": "developmentAPI",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(ModdakirSDK.Environment.EnvKey.Type) -> ModdakirSDK.Environment.EnvKey",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "EnvKey",
+                        "printedName": "ModdakirSDK.Environment.EnvKey",
+                        "usr": "s:11ModdakirSDK11EnvironmentV6EnvKeyO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "ModdakirSDK.Environment.EnvKey.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "EnvKey",
+                            "printedName": "ModdakirSDK.Environment.EnvKey",
+                            "usr": "s:11ModdakirSDK11EnvironmentV6EnvKeyO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:11ModdakirSDK11EnvironmentV6EnvKeyO14developmentAPIyA2EmF",
+                "mangledName": "$s11ModdakirSDK11EnvironmentV6EnvKeyO14developmentAPIyA2EmF",
+                "moduleName": "ModdakirSDK"
+              },
+              {
+                "kind": "Var",
+                "name": "productionAPI",
+                "printedName": "productionAPI",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(ModdakirSDK.Environment.EnvKey.Type) -> ModdakirSDK.Environment.EnvKey",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "EnvKey",
+                        "printedName": "ModdakirSDK.Environment.EnvKey",
+                        "usr": "s:11ModdakirSDK11EnvironmentV6EnvKeyO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "ModdakirSDK.Environment.EnvKey.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "EnvKey",
+                            "printedName": "ModdakirSDK.Environment.EnvKey",
+                            "usr": "s:11ModdakirSDK11EnvironmentV6EnvKeyO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:11ModdakirSDK11EnvironmentV6EnvKeyO13productionAPIyA2EmF",
+                "mangledName": "$s11ModdakirSDK11EnvironmentV6EnvKeyO13productionAPIyA2EmF",
+                "moduleName": "ModdakirSDK"
+              },
+              {
+                "kind": "Function",
+                "name": "==",
+                "printedName": "==(_:_:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "EnvKey",
+                    "printedName": "ModdakirSDK.Environment.EnvKey",
+                    "usr": "s:11ModdakirSDK11EnvironmentV6EnvKeyO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "EnvKey",
+                    "printedName": "ModdakirSDK.Environment.EnvKey",
+                    "usr": "s:11ModdakirSDK11EnvironmentV6EnvKeyO"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:11ModdakirSDK11EnvironmentV6EnvKeyO2eeoiySbAE_AEtFZ",
+                "mangledName": "$s11ModdakirSDK11EnvironmentV6EnvKeyO2eeoiySbAE_AEtFZ",
+                "moduleName": "ModdakirSDK",
+                "static": true,
+                "implicit": true,
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Var",
+                "name": "hashValue",
+                "printedName": "hashValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:11ModdakirSDK11EnvironmentV6EnvKeyO9hashValueSivp",
+                "mangledName": "$s11ModdakirSDK11EnvironmentV6EnvKeyO9hashValueSivp",
+                "moduleName": "ModdakirSDK",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:11ModdakirSDK11EnvironmentV6EnvKeyO9hashValueSivg",
+                    "mangledName": "$s11ModdakirSDK11EnvironmentV6EnvKeyO9hashValueSivg",
+                    "moduleName": "ModdakirSDK",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Function",
+                "name": "hash",
+                "printedName": "hash(into:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Hasher",
+                    "printedName": "Swift.Hasher",
+                    "paramValueOwnership": "InOut",
+                    "usr": "s:s6HasherV"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:11ModdakirSDK11EnvironmentV6EnvKeyO4hash4intoys6HasherVz_tF",
+                "mangledName": "$s11ModdakirSDK11EnvironmentV6EnvKeyO4hash4intoys6HasherVz_tF",
+                "moduleName": "ModdakirSDK",
+                "implicit": true,
+                "funcSelfKind": "NonMutating"
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:11ModdakirSDK11EnvironmentV6EnvKeyO",
+            "mangledName": "$s11ModdakirSDK11EnvironmentV6EnvKeyO",
+            "moduleName": "ModdakirSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:11ModdakirSDK11EnvironmentV",
+        "mangledName": "$s11ModdakirSDK11EnvironmentV",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "NetworkManager",
+        "printedName": "NetworkManager",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ModdakirThemeManager",
+        "printedName": "ModdakirThemeManager",
+        "children": [
+          {
+            "kind": "TypeDecl",
+            "name": "ThemeMode",
+            "printedName": "ThemeMode",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "light",
+                "printedName": "light",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(ModdakirSDK.ModdakirThemeManager.ThemeMode.Type) -> ModdakirSDK.ModdakirThemeManager.ThemeMode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ThemeMode",
+                        "printedName": "ModdakirSDK.ModdakirThemeManager.ThemeMode",
+                        "usr": "s:11ModdakirSDK0A12ThemeManagerC0C4ModeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "ModdakirSDK.ModdakirThemeManager.ThemeMode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ThemeMode",
+                            "printedName": "ModdakirSDK.ModdakirThemeManager.ThemeMode",
+                            "usr": "s:11ModdakirSDK0A12ThemeManagerC0C4ModeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:11ModdakirSDK0A12ThemeManagerC0C4ModeO5lightyA2EmF",
+                "mangledName": "$s11ModdakirSDK0A12ThemeManagerC0C4ModeO5lightyA2EmF",
+                "moduleName": "ModdakirSDK"
+              },
+              {
+                "kind": "Var",
+                "name": "dark",
+                "printedName": "dark",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(ModdakirSDK.ModdakirThemeManager.ThemeMode.Type) -> ModdakirSDK.ModdakirThemeManager.ThemeMode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ThemeMode",
+                        "printedName": "ModdakirSDK.ModdakirThemeManager.ThemeMode",
+                        "usr": "s:11ModdakirSDK0A12ThemeManagerC0C4ModeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "ModdakirSDK.ModdakirThemeManager.ThemeMode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ThemeMode",
+                            "printedName": "ModdakirSDK.ModdakirThemeManager.ThemeMode",
+                            "usr": "s:11ModdakirSDK0A12ThemeManagerC0C4ModeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:11ModdakirSDK0A12ThemeManagerC0C4ModeO4darkyA2EmF",
+                "mangledName": "$s11ModdakirSDK0A12ThemeManagerC0C4ModeO4darkyA2EmF",
+                "moduleName": "ModdakirSDK"
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(rawValue:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "ModdakirSDK.ModdakirThemeManager.ThemeMode?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ThemeMode",
+                        "printedName": "ModdakirSDK.ModdakirThemeManager.ThemeMode",
+                        "usr": "s:11ModdakirSDK0A12ThemeManagerC0C4ModeO"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:11ModdakirSDK0A12ThemeManagerC0C4ModeO8rawValueAESgSS_tcfc",
+                "mangledName": "$s11ModdakirSDK0A12ThemeManagerC0C4ModeO8rawValueAESgSS_tcfc",
+                "moduleName": "ModdakirSDK",
+                "implicit": true,
+                "init_kind": "Designated"
+              },
+              {
+                "kind": "Var",
+                "name": "rawValue",
+                "printedName": "rawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:11ModdakirSDK0A12ThemeManagerC0C4ModeO8rawValueSSvp",
+                "mangledName": "$s11ModdakirSDK0A12ThemeManagerC0C4ModeO8rawValueSSvp",
+                "moduleName": "ModdakirSDK",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:11ModdakirSDK0A12ThemeManagerC0C4ModeO8rawValueSSvg",
+                    "mangledName": "$s11ModdakirSDK0A12ThemeManagerC0C4ModeO8rawValueSSvg",
+                    "moduleName": "ModdakirSDK",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:11ModdakirSDK0A12ThemeManagerC0C4ModeO",
+            "mangledName": "$s11ModdakirSDK0A12ThemeManagerC0C4ModeO",
+            "moduleName": "ModdakirSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "enumRawTypeName": "String",
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              },
+              {
+                "kind": "Conformance",
+                "name": "RawRepresentable",
+                "printedName": "RawRepresentable",
+                "children": [
+                  {
+                    "kind": "TypeWitness",
+                    "name": "RawValue",
+                    "printedName": "RawValue",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:SY",
+                "mangledName": "$sSY"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ModdakirThemeManager",
+                "printedName": "ModdakirSDK.ModdakirThemeManager",
+                "usr": "s:11ModdakirSDK0A12ThemeManagerC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11ModdakirSDK0A12ThemeManagerC6sharedACvpZ",
+            "mangledName": "$s11ModdakirSDK0A12ThemeManagerC6sharedACvpZ",
+            "moduleName": "ModdakirSDK",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ModdakirThemeManager",
+                    "printedName": "ModdakirSDK.ModdakirThemeManager",
+                    "usr": "s:11ModdakirSDK0A12ThemeManagerC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11ModdakirSDK0A12ThemeManagerC6sharedACvgZ",
+                "mangledName": "$s11ModdakirSDK0A12ThemeManagerC6sharedACvgZ",
+                "moduleName": "ModdakirSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "currentThemeMode",
+            "printedName": "currentThemeMode",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ThemeMode",
+                "printedName": "ModdakirSDK.ModdakirThemeManager.ThemeMode",
+                "usr": "s:11ModdakirSDK0A12ThemeManagerC0C4ModeO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11ModdakirSDK0A12ThemeManagerC07currentC4ModeAC0cF0Ovp",
+            "mangledName": "$s11ModdakirSDK0A12ThemeManagerC07currentC4ModeAC0cF0Ovp",
+            "moduleName": "ModdakirSDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ThemeMode",
+                    "printedName": "ModdakirSDK.ModdakirThemeManager.ThemeMode",
+                    "usr": "s:11ModdakirSDK0A12ThemeManagerC0C4ModeO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11ModdakirSDK0A12ThemeManagerC07currentC4ModeAC0cF0Ovg",
+                "mangledName": "$s11ModdakirSDK0A12ThemeManagerC07currentC4ModeAC0cF0Ovg",
+                "moduleName": "ModdakirSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ThemeMode",
+                    "printedName": "ModdakirSDK.ModdakirThemeManager.ThemeMode",
+                    "usr": "s:11ModdakirSDK0A12ThemeManagerC0C4ModeO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11ModdakirSDK0A12ThemeManagerC07currentC4ModeAC0cF0Ovs",
+                "mangledName": "$s11ModdakirSDK0A12ThemeManagerC07currentC4ModeAC0cF0Ovs",
+                "moduleName": "ModdakirSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11ModdakirSDK0A12ThemeManagerC07currentC4ModeAC0cF0OvM",
+                "mangledName": "$s11ModdakirSDK0A12ThemeManagerC07currentC4ModeAC0cF0OvM",
+                "moduleName": "ModdakirSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:11ModdakirSDK0A12ThemeManagerC",
+        "mangledName": "$s11ModdakirSDK0A12ThemeManagerC",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "DeveloperToolsSupport",
+        "printedName": "DeveloperToolsSupport",
+        "declKind": "Import",
+        "moduleName": "ModdakirSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIView",
+        "printedName": "UIView",
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIView",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIView",
+        "declAttributes": [
+          "Preconcurrency",
+          "Available",
+          "ObjC",
+          "NonSendable",
+          "Custom",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)UIResponder",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIViewController",
+        "printedName": "UIViewController",
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIViewController",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIViewController",
+        "declAttributes": [
+          "Preconcurrency",
+          "Available",
+          "ObjC",
+          "NonSendable",
+          "Custom",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)UIResponder",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UILabel",
+        "printedName": "UILabel",
+        "declKind": "Class",
+        "usr": "c:objc(cs)UILabel",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UILabel",
+        "declAttributes": [
+          "Preconcurrency",
+          "Available",
+          "ObjC",
+          "NonSendable",
+          "Custom",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIButton",
+        "printedName": "UIButton",
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIButton",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIButton",
+        "declAttributes": [
+          "Preconcurrency",
+          "Available",
+          "ObjC",
+          "NonSendable",
+          "Custom",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)UIControl",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIControl",
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UITextField",
+        "printedName": "UITextField",
+        "declKind": "Class",
+        "usr": "c:objc(cs)UITextField",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UITextField",
+        "declAttributes": [
+          "Preconcurrency",
+          "Available",
+          "ObjC",
+          "NonSendable",
+          "Custom",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)UIControl",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIControl",
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UINavigationItem",
+        "printedName": "UINavigationItem",
+        "declKind": "Class",
+        "usr": "c:objc(cs)UINavigationItem",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UINavigationItem",
+        "declAttributes": [
+          "Preconcurrency",
+          "Available",
+          "ObjC",
+          "NonSendable",
+          "Custom",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/CallLogic\/Providers\/Agora\/Models\/Agora + RtmSignals.swift",
+      "kind": "StringLiteral",
+      "offset": 153,
+      "length": 6,
+      "value": "\"none\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/CallLogic\/Providers\/Agora\/Models\/Agora + RtmSignals.swift",
+      "kind": "StringLiteral",
+      "offset": 190,
+      "length": 20,
+      "value": "\"reachingTheTeacher\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/CallLogic\/Providers\/Agora\/Models\/Agora + RtmSignals.swift",
+      "kind": "StringLiteral",
+      "offset": 235,
+      "length": 12,
+      "value": "\"ConnectRTC\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/CallLogic\/Providers\/Agora\/Models\/Agora + RtmSignals.swift",
+      "kind": "StringLiteral",
+      "offset": 273,
+      "length": 15,
+      "value": "\"CancelledCall\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/CallLogic\/Providers\/Agora\/Models\/Agora + RtmSignals.swift",
+      "kind": "StringLiteral",
+      "offset": 307,
+      "length": 8,
+      "value": "\"Hangup\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/CallLogic\/Providers\/Agora\/Models\/Agora + RtmSignals.swift",
+      "kind": "StringLiteral",
+      "offset": 335,
+      "length": 9,
+      "value": "\"succeed\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/CallLogic\/Providers\/Agora\/Models\/Agora + RtmSignals.swift",
+      "kind": "StringLiteral",
+      "offset": 362,
+      "length": 7,
+      "value": "\"error\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Call\/CallKit\/CallKitManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 367,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/Domains\/Waiting\/Usecase\/StartCallUsecase\/StartCallUsecase.swift",
+      "kind": "Array",
+      "offset": 588,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Services\/AudioManager\/AudioConfigurator.swift",
+      "kind": "StringLiteral",
+      "offset": 157,
+      "length": 22,
+      "value": "\"ongoing_ringtone.wav\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Services\/AudioManager\/AudioConfigurator.swift",
+      "kind": "StringLiteral",
+      "offset": 198,
+      "length": 18,
+      "value": "\"hangup-sound.wav\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/Shared\/Entity\/Model\/ModdakirSDKError.swift",
+      "kind": "StringLiteral",
+      "offset": 214,
+      "length": 13,
+      "value": "\"unathroized\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/Domains\/Waiting\/Entity\/CallLogStatus.swift",
+      "kind": "StringLiteral",
+      "offset": 152,
+      "length": 9,
+      "value": "\"CREATED\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/Domains\/Waiting\/Entity\/CallLogStatus.swift",
+      "kind": "StringLiteral",
+      "offset": 180,
+      "length": 8,
+      "value": "\"DENIED\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/Domains\/Waiting\/Entity\/CallLogStatus.swift",
+      "kind": "StringLiteral",
+      "offset": 209,
+      "length": 11,
+      "value": "\"NO_ANSWER\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/Domains\/Waiting\/Entity\/CallLogStatus.swift",
+      "kind": "StringLiteral",
+      "offset": 239,
+      "length": 9,
+      "value": "\"HUNG_UP\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/Domains\/Waiting\/Entity\/CallLogStatus.swift",
+      "kind": "StringLiteral",
+      "offset": 269,
+      "length": 10,
+      "value": "\"ANSWERED\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/Domains\/Waiting\/Entity\/CallLogStatus.swift",
+      "kind": "StringLiteral",
+      "offset": 299,
+      "length": 9,
+      "value": "\"TIMEOUT\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/Domains\/Waiting\/Entity\/CallLogStatus.swift",
+      "kind": "StringLiteral",
+      "offset": 326,
+      "length": 9,
+      "value": "\"FAILURE\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/Domains\/Waiting\/Entity\/CallLogStatus.swift",
+      "kind": "StringLiteral",
+      "offset": 356,
+      "length": 10,
+      "value": "\"CANCELED\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/Domains\/Waiting\/Entity\/CallType.swift",
+      "kind": "StringLiteral",
+      "offset": 137,
+      "length": 7,
+      "value": "\"Voice\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/CallLogic\/Providers\/Agora\/Models\/Agora + RtcJoiningState.swift",
+      "kind": "IntegerLiteral",
+      "offset": 193,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/CallLogic\/Providers\/Agora\/Models\/Agora + RtcJoiningState.swift",
+      "kind": "IntegerLiteral",
+      "offset": 224,
+      "length": 2,
+      "value": "-2"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/CallLogic\/Providers\/Agora\/Models\/Agora + RtcJoiningState.swift",
+      "kind": "IntegerLiteral",
+      "offset": 261,
+      "length": 2,
+      "value": "-3"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/CallLogic\/Providers\/Agora\/Models\/Agora + RtcJoiningState.swift",
+      "kind": "IntegerLiteral",
+      "offset": 303,
+      "length": 2,
+      "value": "-7"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/CallLogic\/Providers\/Agora\/Models\/Agora + RtcJoiningState.swift",
+      "kind": "IntegerLiteral",
+      "offset": 341,
+      "length": 2,
+      "value": "-8"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/CallLogic\/Providers\/Agora\/Models\/Agora + RtcJoiningState.swift",
+      "kind": "IntegerLiteral",
+      "offset": 377,
+      "length": 3,
+      "value": "-17"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/CallLogic\/Providers\/Agora\/Models\/Agora + RtcJoiningState.swift",
+      "kind": "IntegerLiteral",
+      "offset": 416,
+      "length": 4,
+      "value": "-102"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/CallLogic\/Providers\/Agora\/Models\/Agora + RtcJoiningState.swift",
+      "kind": "IntegerLiteral",
+      "offset": 451,
+      "length": 4,
+      "value": "-121"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Infrastructure\/Network\/ModdakirEndPoints.swift",
+      "kind": "StringLiteral",
+      "offset": 210,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Data\/Waiting\/DTOs\/Response\/CallResponseDTO\/CallResponseDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 711,
+      "length": 12,
+      "value": "\"callApiKey\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Data\/Waiting\/DTOs\/Response\/CallResponseDTO\/CallResponseDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 758,
+      "length": 20,
+      "value": "\"callApiCertificate\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Data\/Waiting\/DTOs\/Response\/CallResponseDTO\/CallResponseDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 1498,
+      "length": 8,
+      "value": "\"callId\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Data\/Waiting\/DTOs\/Response\/CallResponseDTO\/CallResponseDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 1532,
+      "length": 11,
+      "value": "\"studentId\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Data\/Waiting\/DTOs\/Response\/CallResponseDTO\/CallResponseDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 1569,
+      "length": 11,
+      "value": "\"teacherId\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Data\/Waiting\/DTOs\/Response\/CallResponseDTO\/CallResponseDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 1644,
+      "length": 11,
+      "value": "\"updaterId\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Data\/Waiting\/DTOs\/Response\/CallResponseDTO\/CallResponseDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 1762,
+      "length": 18,
+      "value": "\"studentAvatarUrl\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Data\/Waiting\/DTOs\/Response\/CallResponseDTO\/CallResponseDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 1813,
+      "length": 18,
+      "value": "\"teacherAvatarUrl\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Data\/Waiting\/DTOs\/Response\/CallResponseDTO\/CallResponseDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 1857,
+      "length": 11,
+      "value": "\"sessionId\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Data\/Waiting\/DTOs\/Response\/CallResponseDTO\/CallResponseDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 1900,
+      "length": 17,
+      "value": "\"studentReviewId\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Data\/Waiting\/DTOs\/Response\/CallResponseDTO\/CallResponseDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 1961,
+      "length": 11,
+      "value": "\"recordUrl\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Data\/Waiting\/DTOs\/Response\/CallResponseDTO\/CallResponseDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 2033,
+      "length": 15,
+      "value": "\"callSessionId\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Data\/Waiting\/DTOs\/Response\/CallResponseDTO\/CallResponseDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 2097,
+      "length": 10,
+      "value": "\"shareUrl\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Waiting\/VC\/WaitingViewController\/WaitingViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 515,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Waiting\/VC\/WaitingViewController\/WaitingViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10520,
+      "length": 15,
+      "value": "\"reloading.gif\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Waiting\/VC\/WaitingViewController\/WaitingViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10582,
+      "length": 17,
+      "value": "\"micAccessDenied\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Waiting\/VC\/WaitingViewController\/WaitingViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10655,
+      "length": 18,
+      "value": "\"pleaseGiveAccess\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Waiting\/VC\/WaitingViewController\/WaitingViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10723,
+      "length": 10,
+      "value": "\"settings\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Waiting\/VC\/WaitingViewController\/WaitingViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10798,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Waiting\/VC\/WaitingViewController\/WaitingViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10859,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Waiting\/VC\/WaitingViewController\/WaitingViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10868,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Waiting\/VC\/WaitingViewController\/WaitingViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10880,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Waiting\/VC\/WaitingViewController\/WaitingViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10890,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Rate\/Model\/RateState.swift",
+      "kind": "IntegerLiteral",
+      "offset": 181,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Rate\/Model\/RateState.swift",
+      "kind": "IntegerLiteral",
+      "offset": 196,
+      "length": 3,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Rate\/Model\/RateState.swift",
+      "kind": "IntegerLiteral",
+      "offset": 213,
+      "length": 6,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Rate\/Model\/RateState.swift",
+      "kind": "IntegerLiteral",
+      "offset": 233,
+      "length": 5,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Rate\/Model\/RateState.swift",
+      "kind": "IntegerLiteral",
+      "offset": 252,
+      "length": 9,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Custom\/PageControl\/ExtendedDotPageControl.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2728,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Custom\/PageControl\/ExtendedDotPageControl.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2788,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Custom\/PageControl\/ExtendedDotPageControl.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2800,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Custom\/PageControl\/ExtendedDotPageControl.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2869,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Custom\/PageControl\/ExtendedDotPageControl.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2881,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Infrastructure\/Connectivity\/Connectivity.swift",
+      "kind": "BooleanLiteral",
+      "offset": 227,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Infrastructure\/Connectivity\/Connectivity.swift",
+      "kind": "BooleanLiteral",
+      "offset": 267,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Infrastructure\/Connectivity\/Connectivity.swift",
+      "kind": "BooleanLiteral",
+      "offset": 359,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/SuccessRatePopup\/SuccessRatePopupViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2392,
+      "length": 9,
+      "value": "\"success\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/SuccessRatePopup\/SuccessRatePopupViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2436,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/CallLogic\/Providers\/Agora\/AgoraService.swift",
+      "kind": "StringLiteral",
+      "offset": 401,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Rate\/VC\/RateCallViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 5537,
+      "length": 15,
+      "value": "\"teacherRating\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Rate\/VC\/RateCallViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5639,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Rate\/VC\/RateCallViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5645,
+      "length": 3,
+      "value": "-10"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Service\/ModdakirService\/Coordinator\/ModdakirService.swift",
+      "kind": "StringLiteral",
+      "offset": 624,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Service\/ModdakirService\/Coordinator\/ModdakirService.swift",
+      "kind": "StringLiteral",
+      "offset": 657,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Service\/ModdakirService\/Coordinator\/ModdakirService.swift",
+      "kind": "StringLiteral",
+      "offset": 893,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Service\/ModdakirService\/Coordinator\/ModdakirService.swift",
+      "kind": "StringLiteral",
+      "offset": 928,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Service\/ModdakirService\/Coordinator\/ModdakirService.swift",
+      "kind": "StringLiteral",
+      "offset": 4080,
+      "length": 17,
+      "value": "\"enterValidEmail\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Service\/ModdakirService\/Coordinator\/ModdakirService.swift",
+      "kind": "StringLiteral",
+      "offset": 4149,
+      "length": 12,
+      "value": "\"noInternet\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Service\/ModdakirService\/Coordinator\/ModdakirService.swift",
+      "kind": "StringLiteral",
+      "offset": 4216,
+      "length": 15,
+      "value": "\"validUsername\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Service\/ModdakirService\/Coordinator\/ModdakirService.swift",
+      "kind": "StringLiteral",
+      "offset": 4289,
+      "length": 18,
+      "value": "\"unableToInitCall\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/Domains\/Waiting\/Entity\/Response\/CallResponseModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 832,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/Domains\/Waiting\/Entity\/Response\/CallResponseModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 871,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Base\/UIBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1079,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Base\/UIBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1547,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Waiting\/ViewModel\/WaitingViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 10219,
+      "length": 12,
+      "value": "\"connecting\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Waiting\/ViewModel\/WaitingViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10284,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Waiting\/ViewModel\/WaitingViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10334,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Data\/Waiting\/DTOs\/Response\/TeacherDTO\/TeacherResponseDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 610,
+      "length": 11,
+      "value": "\"avatarUrl\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Resources\/DesignSystem\/Colors\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 255,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Helpers\/FontManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 154,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Call\/ViewModel\/CallViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9074,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Call\/ViewModel\/CallViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9127,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Call\/ViewModel\/CallViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 9175,
+      "length": 16,
+      "value": "\"poorConnection\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Call\/ViewModel\/CallViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 9251,
+      "length": 20,
+      "value": "\"restoredConnection\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Call\/ViewModel\/CallViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 9321,
+      "length": 10,
+      "value": "\"00:00:01\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Helpers\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 137,
+      "length": 8,
+      "value": "\"logs: \""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Helpers\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 267,
+      "length": 8,
+      "value": "\"logs: \""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Custom\/ConnectionAlert\/ConnectionAlert\/ConnectivityAlert.swift",
+      "kind": "BooleanLiteral",
+      "offset": 323,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Custom\/ConnectionAlert\/ConnectionAlert\/ConnectivityAlert.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2740,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Custom\/ConnectionAlert\/ConnectionAlert\/ConnectivityAlert.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2758,
+      "length": 4,
+      "value": "-100"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Custom\/ConnectionAlert\/ConnectionAlert\/ConnectivityAlert.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2817,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/Domains\/Waiting\/Entity\/StartCallErrorType.swift",
+      "kind": "IntegerLiteral",
+      "offset": 295,
+      "length": 3,
+      "value": "405"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Call\/VC\/CallViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 2046,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Call\/VC\/CallViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 3375,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Call\/VC\/CallViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 3383,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Call\/VC\/CallViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 3724,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Call\/VC\/CallViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10326,
+      "length": 20,
+      "value": "\"person.circle.fill\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Call\/VC\/CallViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10442,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Presentation layer\/Scenes\/Call\/VC\/CallViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10460,
+      "length": 4,
+      "value": "-100"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Services\/AudioManager\/AudioManager.swift",
+      "kind": "Array",
+      "offset": 650,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Services\/AudioManager\/AudioManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 739,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Common\/Services\/AudioManager\/AudioManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2245,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Data\/Service\/DTO\/Response\/AuthenticationResponseDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 542,
+      "length": 11,
+      "value": "\"avatarUrl\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Data layer\/Data\/Service\/Repository\/ModdakirServiceRepository.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1268,
+      "length": 3,
+      "value": "401"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Resources\/DesignSystem\/UIThemeManagerInteface.swift",
+      "kind": "StringLiteral",
+      "offset": 284,
+      "length": 11,
+      "value": "\"ThemeMode\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Resources\/DesignSystem\/UIThemeManagerInteface.swift",
+      "kind": "StringLiteral",
+      "offset": 1980,
+      "length": 16,
+      "value": "\"themeDidChange\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/Domains\/Service\/Entity\/Validator.swift",
+      "kind": "StringLiteral",
+      "offset": 292,
+      "length": 53,
+      "value": "\"^[A-Z0-9a-z._%+-]+@[A-Z0-9a-z.-]+\\.[A-Za-z]{2,64}$\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/Domains\/Waiting\/Usecase\/RandomTeacherUsecase\/RandomTeacherUsecase.swift",
+      "kind": "IntegerLiteral",
+      "offset": 208,
+      "length": 14,
+      "value": "10000000000"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/Domains\/Waiting\/Usecase\/RandomTeacherUsecase\/RandomTeacherUsecase.swift",
+      "kind": "BooleanLiteral",
+      "offset": 548,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Source\/Modules\/Domain layer\/Domains\/Waiting\/Usecase\/RandomTeacherUsecase\/RandomTeacherUsecase.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1969,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Resources\/DesignSystem\/Font.swift",
+      "kind": "StringLiteral",
+      "offset": 133,
+      "length": 13,
+      "value": "\"Roboto-Bold\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Resources\/DesignSystem\/Font.swift",
+      "kind": "StringLiteral",
+      "offset": 172,
+      "length": 16,
+      "value": "\"Roboto-Regular\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Resources\/DesignSystem\/Font.swift",
+      "kind": "StringLiteral",
+      "offset": 215,
+      "length": 22,
+      "value": "\"NotoNaskhArabic-Bold\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Resources\/DesignSystem\/Font.swift",
+      "kind": "StringLiteral",
+      "offset": 266,
+      "length": 25,
+      "value": "\"NotoNaskhArabic-Regular\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Desktop\/Call SDK\/moddakir_sdk_ios\/SDK\/ModdakirSDK\/Resources\/DesignSystem\/Font.swift",
+      "kind": "StringLiteral",
+      "offset": 319,
+      "length": 23,
+      "value": "\"DiodrumArabic-Regular\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 625,
+      "length": 13,
+      "value": "\"BloodyColor\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 769,
+      "length": 14,
+      "value": "\"DefaultColor\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 911,
+      "length": 11,
+      "value": "\"HalfBlack\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1045,
+      "length": 11,
+      "value": "\"MainColor\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1179,
+      "length": 11,
+      "value": "\"TextColor\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1319,
+      "length": 14,
+      "value": "\"WarningColor\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1560,
+      "length": 8,
+      "value": "\"hangup\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1698,
+      "length": 12,
+      "value": "\"hangupCall\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1842,
+      "length": 13,
+      "value": "\"impression1\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1996,
+      "length": 18,
+      "value": "\"impression1-fill\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2146,
+      "length": 13,
+      "value": "\"impression2\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2300,
+      "length": 18,
+      "value": "\"impression2-fill\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2450,
+      "length": 13,
+      "value": "\"impression3\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2604,
+      "length": 18,
+      "value": "\"impression3-fill\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2754,
+      "length": 13,
+      "value": "\"impression4\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2908,
+      "length": 18,
+      "value": "\"impression4-fill\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3058,
+      "length": 13,
+      "value": "\"impression5\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3212,
+      "length": 18,
+      "value": "\"impression5-fill\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3352,
+      "length": 8,
+      "value": "\"micOff\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3480,
+      "length": 7,
+      "value": "\"micOn\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3629,
+      "length": 18,
+      "value": "\"powerdByModdakir\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3789,
+      "length": 18,
+      "value": "\"quraanBackground\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3937,
+      "length": 12,
+      "value": "\"speakerOff\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4077,
+      "length": 11,
+      "value": "\"speakerOn\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4208,
+      "length": 7,
+      "value": "\"timer\""
+    },
+    {
+      "filePath": "\/Users\/mohamedrizk\/Library\/Developer\/Xcode\/DerivedData\/ModdakirSDK-bgnfzzumuayhasadneyeyasoegob\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ModdakirSDK\/IntermediateBuildFilesPath\/ModdakirSDK.build\/Release-iphoneos\/ModdakirSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4349,
+      "length": 14,
+      "value": "\"waitingCover\""
+    }
+  ]
+}
