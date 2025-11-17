@@ -35,11 +35,9 @@ let package = Package(
             name: "AgoraRtmKit",
             path: "Sources/AgoraRtmKit.xcframework"
         ),
-        
         .binaryTarget(
             name: "ModdakirSDK",
-            url: "https://github.com/Moddakir-App/ModdakirSDK/releases/download/0.1.9/ModdakirSDK.xcframework.zip",
-            checksum: "e6b38fd56c3e4906fb1fad8f7a7f875e8434fc214c396ad4849d8ea468286f82"
+            path: "Sources/ModdakirSDK.xcframework"
         )
     ]
 )
