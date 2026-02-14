@@ -23,10 +23,8 @@ let package = Package(
             dependencies: [
                 .target(name: "ModdakirSDK"),
                 .target(name: "AgoraRtmKit"),
-                .product(name: "NetworkManager", package: "NetworkManager"),
                 .product(name: "RtcBasic", package: "AgoraAudio_iOS"),
                 .product(name: "SwiftyGif-Dynamic", package: "SwiftyGif")
-
             ],
             path: "./Sources/ModdakirSDKWrapper"
         ),
