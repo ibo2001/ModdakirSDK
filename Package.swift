@@ -13,7 +13,6 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/Amin-0-1/NetworkManager", .upToNextMajor(from: "1.6.2")),
         .package(url: "https://github.com/AgoraIO/AgoraAudio_iOS", .upToNextMajor(from: "4.3.1")),
         .package(url: "https://github.com/alexiscreuzot/SwiftyGif", .upToNextMajor(from: "5.4.5"))
     ],
